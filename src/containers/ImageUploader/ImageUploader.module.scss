@@ -1,0 +1,14 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  border: 1px dashed gray;
+  padding: 10px;
+}
+
+.label {
+  cursor: pointer;
+}
+
+.tagContainer {
+  margin-top: 10px;
+}

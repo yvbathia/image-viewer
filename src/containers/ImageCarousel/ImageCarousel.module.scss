@@ -1,0 +1,15 @@
+.root {
+ margin: 15px;
+}
+
+
+.img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.imgContainer{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}

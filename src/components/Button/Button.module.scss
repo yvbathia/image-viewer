@@ -1,0 +1,13 @@
+.btn {
+  background-color: blue;
+  color: white;
+  font-weight: 600;
+  height: 30px;
+  max-width: 200px;
+  width: 100%;
+  cursor: pointer;
+  &:disabled {
+      cursor: no-drop !important;
+      opacity: 0.5 !important;
+  }
+}
